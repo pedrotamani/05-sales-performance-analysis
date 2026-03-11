@@ -187,23 +187,26 @@ Possible extensions of this project include:
 
 ---
 
-# ▶️ Run the Notebook
+## ▶️ Run the Notebook
 
-1. Open the notebook in Google Colab or Jupyter Notebook  
-2. Upload the dataset into the data folder  
-3. Execute the cells step by step  
+- Open in Google Colab  
+- Upload CSV dataset  
+- Execute cells step by step  
 
 ---
 
-# 👤 Author
+
+## 👤 Author
 
 Pedro Tamani  
-Economist | Business Analysis | Data Analytics  
+Economist | Business Analysis | Decision Support  
 
-Based in Lima, Peru  
+📍 Based in Lima, Peru  
 
-LinkedIn  
-https://linkedin.com/in/pedrotamani  
+🔗 LinkedIn: 
 
-Email  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroTamani-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pedrotamani)
+
+📧 Email  
 pedro.tamani@gmail.com
+
