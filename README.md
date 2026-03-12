@@ -161,6 +161,9 @@ Based on the findings, several strategic recommendations can be proposed.
 ## Sales by Region
 ![Sales by Region](images/sales_by_region.png)
 
+## Top 10 Products by Sales
+![Sales by Region](images/top_products.png)
+
 ---
 
 # 📓 Analysis Notebook
